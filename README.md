@@ -2,6 +2,7 @@ Ejercicio 10: Crear un programa que permita agregar el nombre y correo electrón
 un datagridView, también debe permitir eliminar una fila en dicho datagridview y limpiar
 los campos. Al salir de la aplicación, debe mostrar un mensaje preguntando si desea salir
 de la aplicación.
+
 Ejercicio 11: Partiendo del ejercicio anterior, implementar que al dar clic al botón
 agregar, se limpien los campos de texto y devuelva el foco en el campo nombre, si da clic
 a dicho botón y los campos están en blanco, mostrar un mensaje indicando que debe
